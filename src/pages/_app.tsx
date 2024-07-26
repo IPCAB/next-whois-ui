@@ -15,10 +15,10 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Next Whois Lookup</title>
+        <title>Atomao Whois Lookup</title>
         <meta
           name="description"
-          content="Next Whois Lookup Tool, Provided Beautiful, Clean and Simple UI"
+          content="Atomao Whois Lookup Tool, Provided Beautiful, Clean and Simple UI"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="tags" content="Whois, Lookup, Tool, Next Whois UI" />
@@ -38,7 +38,7 @@ export default function App({ Component, pageProps }: AppProps) {
           >
             <ModeToggle />
             <Link
-              href={`https://github.com/zmh-program/next-whois-ui`}
+              href={`https://github.com/IPCAB/next-whois-ui`}
               target={`_blank`}
             >
               <Button variant={`outline`} size={`icon`}>
