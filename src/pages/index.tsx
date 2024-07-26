@@ -33,7 +33,7 @@ export default function Home() {
           }
         >
           <Search className={`w-4 h-4 md:w-6 md:h-6 mr-1 md:mr-1.5 shrink-0`} />
-          Whois Lookup
+          Atomao Whois Lookup
         </h1>
         <p className={"text-md text-center text-secondary"}>
           Please enter a domain name to lookup
